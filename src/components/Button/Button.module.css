@@ -1,0 +1,21 @@
+.Button, .DarkButton{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+.Button:hover{
+    background-color: burlywood;
+}
+
+.DarkButton {
+    background-color: #666;
+    color: white;
+}
+
+.DarkButton:hover {
+    background-color: chartreuse;
+}

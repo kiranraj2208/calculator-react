@@ -1,0 +1,20 @@
+.Theme, .BlackTheme {
+    display: flex;
+}
+
+
+.ThemeButton1, .ThemeButton2 {
+    border: 2px solid rgb(231, 14, 14);
+    cursor: pointer;
+    padding: 15px;
+}
+
+.ThemeButton1 {
+    background-color: #ffffff;
+    color: black;
+}
+
+.ThemeButton2 {
+    background-color: black;
+    color: #ffffff;
+}
